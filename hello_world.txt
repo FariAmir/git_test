@@ -1,0 +1,4 @@
+Hello
+This is a test file, opened through Terminal 
+Type - (Code "Hello_world.txt")
+
